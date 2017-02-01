@@ -1,0 +1,7 @@
+<resources>
+    <!-- Comments name:id -->
+    <string name="app_name">Sound Play</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnPause">Pause</string>
+    <string name="btnStop">Stop</string>
+</resources>
